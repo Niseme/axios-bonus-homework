@@ -1,0 +1,25 @@
+{
+  "name": "axios-bonus-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niseme/axios-bonus-homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niseme/axios-bonus-homework/issues"
+  },
+  "homepage": "https://github.com/Niseme/axios-bonus-homework#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fetch": "^1.1.0"
+  },
+   "type": "module"
+}
